@@ -819,4 +819,5 @@ def genera_stanze(i_pos, f_pos, grado, chiave, stanze_run, stanze_usate):
     opzioni=estraz_stanze(stanze_valide, grado, chiave)
     return opzioni
 
-algoritmo()
+
+algoritmo_gioco()
